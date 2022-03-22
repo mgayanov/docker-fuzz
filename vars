@@ -1,0 +1,3 @@
+#!/bin/bash
+
+export FZ_IMAGE=my-fuzz
