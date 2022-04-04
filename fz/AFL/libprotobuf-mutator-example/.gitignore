@@ -1,3 +1,7 @@
 issue/
 in/
 out/
+*.so
+*.pb.*
+test_fuzzer
+serializer

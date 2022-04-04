@@ -1,4 +1,5 @@
 #!/bin/bash
 
 export FZ_IMAGE=my-fuzz
-export FZ_MOUNT=/fuzzer
+export FZ_SRC_MOUNT=/fuzzer
+export FZ_TARGET_MOUNT=/src
